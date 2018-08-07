@@ -4,21 +4,22 @@ I am following the tutorial provided by Miguel Grinberg in his blog, which can b
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 The project is currently structured as follows:
-microblog/
 
-app/
+    microblog/
+
+        app/
 
 
-    templates/
+        templates/
     
      
-     __init.py__
+        __init.py__
      
-     routes.py
+        routes.py
      
-config.py
+    config.py
 
-microblog.py
+    microblog.py
   
 <b>microblog.py</b> is the main application.
 
