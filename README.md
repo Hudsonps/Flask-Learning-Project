@@ -5,12 +5,20 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 The project is currently structured as follows:
 microblog/
-  app/
-      /templates
-      __init.py__
-      routes.py
-  config.py
-  microblog.py
+
+app/
+
+
+    templates/
+    
+     
+     __init.py__
+     
+     routes.py
+     
+config.py
+
+microblog.py
   
 <b>microblog.py</b> is the main application.
 
