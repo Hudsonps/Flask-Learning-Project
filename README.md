@@ -10,16 +10,16 @@ The project is currently structured as follows:
         app/
 
 
-        templates/
+          templates/
     
      
-        __init.py__
+          __init.py__
      
-        routes.py
+          routes.py
      
-    config.py
+      config.py
 
-    microblog.py
+      microblog.py
   
 <b>microblog.py</b> is the main application.
 
