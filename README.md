@@ -25,7 +25,7 @@ The project is currently structured as follows:
 
 <b>microblog.py</b> sets some configurations related to Flask and its extensions
 
-<b>app/templates</b> contains HTML templates rendered by the application
+<b>app/templates/</b> contains HTML templates rendered by the application
 
 <b>app/__init__.py</b> initializes the application
 
