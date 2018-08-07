@@ -17,6 +17,7 @@ microblog/
 
 <b>app/templates</b> contains HTML templates rendered by the application
 <b>app/__init__.py</b> initializes the application
+
 <b>app/routes.py</b> contains the various functions of our application, and the respective URL's that call these functions
 
 
