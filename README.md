@@ -7,7 +7,7 @@ The project is currently structured as follows:
 
     microblog/
 
-        app/
+       app/
 
 
           templates/
@@ -17,9 +17,9 @@ The project is currently structured as follows:
      
           routes.py
      
-      config.py
+       config.py
 
-      microblog.py
+       microblog.py
   
 <b>microblog.py</b> is the main application.
 
