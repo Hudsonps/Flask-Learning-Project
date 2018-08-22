@@ -21,6 +21,10 @@ class User(UserMixin, db.Model):
 	def check_password(self, password):
 		return check_password_hash(self.password_hash, password)
 
+	def avatar(self, size):
+		return "https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-1/p320x320/36848446_2141259082574502_2185365603148103680_n.jpg?_nc_cat=0&oh=4637a341bedca7e9f0692209ec86c9a5&oe=5C06D3A3"
+
+
 
 class Post(db.Model):
 	id = db.Column(db.Integer, primary_key=True)
